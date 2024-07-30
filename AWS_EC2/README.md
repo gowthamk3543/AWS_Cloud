@@ -1,4 +1,4 @@
-### Step 1 – Login to AWS console (As per recommended we need to login as IAM-user)
+### Step 1 – Login to AWS console (For best practice we need to login as IAM-user)
 ![p1](https://github.com/user-attachments/assets/629fe33a-875b-4512-b531-b94f44963975)
 
 ### Step 2 - Search for EC2 select launch instance
