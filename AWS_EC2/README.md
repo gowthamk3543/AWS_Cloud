@@ -24,4 +24,4 @@
 ![p10](https://github.com/user-attachments/assets/cd63ff30-9174-4d37-9ea2-b7a4b9c5f571)
 ![p11](https://github.com/user-attachments/assets/e4b4fb9c-e8d1-46a8-a7ab-54574f06d474)
 
-### EC2 instance EC2_Creation Connected in Mobaxterm
+### EC2 instance created and Connected in Mobaxterm
