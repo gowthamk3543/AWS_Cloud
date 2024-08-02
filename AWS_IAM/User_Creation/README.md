@@ -1,4 +1,4 @@
-# Login to AWS Console and Create IAM User, Role, and Group
+# Login to AWS Console and Create IAM User
 ### Step 1 - Login to AWS console
 ![p1](https://github.com/user-attachments/assets/aa19cc2e-053f-4a87-a8ab-578adde4dafe)
 ### Step 2 - Search & select IAM
