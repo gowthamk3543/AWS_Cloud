@@ -3,7 +3,7 @@
 ![p1](https://github.com/user-attachments/assets/aa19cc2e-053f-4a87-a8ab-578adde4dafe)
 ### Step 2 - Search & select IAM
 ![p2](https://github.com/user-attachments/assets/24c69905-9439-4729-868b-3344d09e6ff2)
-### We will now see how to Create New User
+# We will now see how to Create New User
 ### Step 3 - Now select Create user - provide username - select Provide user access to the AWS Management Console - choose console password (auto generated password) - choose Users must create a new password at next sign-in - click next
 ![p3](https://github.com/user-attachments/assets/9259dc9e-f5b8-4418-b7f7-d984db4b7cb1)
 ![p4](https://github.com/user-attachments/assets/daf2f605-ccb5-4a49-9a63-9df968921fae)
@@ -19,3 +19,8 @@
 ![p11](https://github.com/user-attachments/assets/91d681f2-437b-4ead-9d56-74805ab995b4)
 ![p12](https://github.com/user-attachments/assets/4b0697b4-b2e0-4406-8ef3-3b9987fefc91)
 ### We have created and logged IN: IAM_User_Creation 
+
+# We will now see how to Create New Role
+### Step 1 - Now select roles and click create role - select required Trusted entity type - select use case (adding services) - now click next - now add required permissions - click next - provide role name, tags review it and click create role
+
+### We have created Role: IAM_Role_Creation
