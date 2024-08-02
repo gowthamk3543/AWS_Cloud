@@ -20,6 +20,7 @@
 ![p12](https://github.com/user-attachments/assets/4b0697b4-b2e0-4406-8ef3-3b9987fefc91)
 ### We have created and logged IN: IAM_User_Creation 
 
+
 # We will now see how to Create New Role
 ### Step 1 - Now select roles and click create role - select required Trusted entity type - select use case (adding services) - now click next - now add required permissions - click next - provide role name, tags review it and click create role
 ![Picture1](https://github.com/user-attachments/assets/a54ea8b7-a5c0-4d2d-8586-9a5fa557a275)
@@ -30,3 +31,9 @@
 ![Picture6](https://github.com/user-attachments/assets/a86d7138-df64-4e25-983b-e7f5ff7dccd7)
 ![Picture7](https://github.com/user-attachments/assets/1c9a8081-a082-4809-9b69-8bac759d79ae)
 ### We have created Role: IAM_Role_Creation
+
+
+# We will now see how to Create New Group
+### Step 1 - Now select group and click create group - provide group name - we can add available users to group - now Attach permissions policies as per need - then click create group
+
+### We have created Group: IAM_Group_Creation
