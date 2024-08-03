@@ -1,6 +1,6 @@
 # Launch EC2 and try to transfer file to S3
 
-### we need to create IAM user with roles as EC2 full access and S3 full access after creation we'll get to see Access key, generate it and download csv.file where our access key details will be there
+### We need to create IAM user with roles as EC2 full access and S3 full access after creation we'll get to see Access key, generate it and download csv.file where our access key details will be there
 For Creating IAM user please do check AWS_IAM file
 ### Launch EC2  instance and connect in mobaxterm
 For detailed steps of EC2 creation check AWS_EC2 file
@@ -22,6 +22,8 @@ aws --version
 ### Now we need to configure AWS 
 aws configure 
 ### We need to provided access key, secret key, region and format of output like json file
+This access key, secret key we will get when we create IAM user as mentioned at first.
+Region and format based on project.
 ### Now we have configured aws 
 ![image](https://github.com/user-attachments/assets/dd2639ef-d040-4b24-bbc7-f51f0a5115ec)
 ![image](https://github.com/user-attachments/assets/60b12581-bb81-4a4f-b310-0819f2f28154)
