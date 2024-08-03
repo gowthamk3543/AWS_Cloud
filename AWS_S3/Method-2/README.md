@@ -9,8 +9,8 @@
 ### Now we need to install unzip apt install upzip - y
 
 ### Now we need to install aws cli go to Google search aws cli install in linux we will get link paste in terminal 
-curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-unzip awscliv2.zip
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"  
+unzip awscliv2.zip  
 sudo ./aws/install
 ### To verify aws - - version
 
