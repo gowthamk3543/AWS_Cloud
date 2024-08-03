@@ -7,3 +7,5 @@ AWS Services Working
 # Identity and Access Management (IAM)
 
 # Amazon Simple Storage Service (Amazon S3)
+
+# Amazon Virtual Private Cloud (VPC)
