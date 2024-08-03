@@ -3,7 +3,7 @@
 ### we need to create IAM user with roles as EC2 full access and S3 full access after creation we'll get to see Access key, generate it and download csv.file where our access key details will be there
 For Creating IAM user please do check AWS_IAM file
 ### Launch EC2  instance and connect in mobaxterm
-For detail step for EC2 creation check AWS_EC2 file
+For detailed steps of EC2 creation check AWS_EC2 file
 ![image](https://github.com/user-attachments/assets/74712727-3ec2-4327-b8f9-f3851f37700f)
 ### Switch it to root user sudo -i
 ### update the terminal apt update - y
@@ -26,4 +26,5 @@ sudo ./aws/install
 ### Now add this file to S3 bucket aws s3 cp samplefile.txt s3://bucket-name
 ### To verify aws s3 ls s3://bucket-name
 ![image](https://github.com/user-attachments/assets/de309d37-ad20-499d-8ee3-c460a54bfe80)
+![image](https://github.com/user-attachments/assets/bb26f6a3-dfcf-4dca-85d2-37f5d5b74c70)
 ### This is how we add files to s3 from ec2
